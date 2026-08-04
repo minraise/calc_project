@@ -25,3 +25,4 @@ return a / b
 - noii@kkokiyo.app
 ---
 THANKS :)
+고맙습니다 :)
