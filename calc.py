@@ -8,9 +8,13 @@ def sub(a, b):
     return a - b
 
 
-#곱하기 함수 주석 추가
+# 곱하기 함수
 def mul(a, b):
     return a * b
+
+
+def square(a):
+    return a**2
 
 
 def mod(a, b):
