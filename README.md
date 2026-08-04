@@ -26,7 +26,7 @@ def square(a, b):
 return a ** 2
 ```
 ### 2. 개발자
-- 박성훈
+- 박성훈!!
 - noii@kkokiyo.app
 - https://naver.com
 - 노이
