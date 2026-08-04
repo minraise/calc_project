@@ -28,6 +28,7 @@ return a ** 2
 ### 2. 개발자
 - 박성훈
 - noii@kkokiyo.app
+- https://naver.com
 ---
 THANKS :)
 고맙습니다 :)
